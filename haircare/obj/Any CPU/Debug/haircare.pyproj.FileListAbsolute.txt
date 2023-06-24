@@ -1,0 +1,2 @@
+D:\ITLab\haircare\haircare\haircare\obj\Any CPU\Debug\haircare.pyproj.SuggestedBindingRedirects.cache
+D:\ITLab\haircare\haircare\haircare\obj\Any CPU\Debug\haircare.pyproj.CoreCompileInputs.cache

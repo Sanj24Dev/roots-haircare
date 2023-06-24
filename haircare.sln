@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "haircare", "haircare\haircare.pyproj", "{32BBC885-E209-43E7-8E84-EA7FD16DAA28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32BBC885-E209-43E7-8E84-EA7FD16DAA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BBC885-E209-43E7-8E84-EA7FD16DAA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BBC885-E209-43E7-8E84-EA7FD16DAA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BBC885-E209-43E7-8E84-EA7FD16DAA28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C377578-64E7-4707-9C82-0F12695A7F8B}
+	EndGlobalSection
+EndGlobal
